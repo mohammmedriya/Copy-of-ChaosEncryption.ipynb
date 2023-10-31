@@ -1,4 +1,4 @@
-# Copy-of-ChaosEncryption.ipynb
+# ChaosEncryption.ipynb
 Choose a suitable chaotic map: There are various chaotic maps available, such as Logistic map, Henon map, and Lorenz system. Select one based on its properties and suitability for encryption.
 
 Generate encryption keys: Use the chaotic map to generate a sequence of random numbers, which will serve as the encryption keys. These keys should be unpredictable and have a large key space to enhance security.
